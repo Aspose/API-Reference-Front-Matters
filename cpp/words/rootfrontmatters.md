@@ -1,5 +1,6 @@
 ---
 title: Aspose.Words for C++
+linktitle: Aspose.Words for C++
 type: docs
 weight: 10
 url: /cpp/

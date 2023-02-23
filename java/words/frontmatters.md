@@ -1,5 +1,6 @@
 ---
 title: $title
+linktitle: $linktitle
 second_title: Aspose.Words for Java API Reference
 description: $description in Java.
 type: docs
