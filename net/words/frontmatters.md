@@ -1,7 +1,8 @@
 ---
 title: $title
 linktitle: $linktitle
-second_title: Aspose.Words for .NET API Reference
+articleTitle: $articletitle
+second_title: Aspose.Words for .NET
 description: $description in C#.
 type: docs
 weight: $weight
