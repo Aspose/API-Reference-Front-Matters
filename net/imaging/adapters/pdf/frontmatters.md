@@ -4,5 +4,5 @@ second_title: Aspose.Imaging.Pdf Adapter for .NET API Reference
 description: $description
 type: docs
 weight: $weight
-url: /net/adapters/pdf/$ref/
+url: /adapters/net/aspose.imaging.pdf.adapter/$ref/
 ---
